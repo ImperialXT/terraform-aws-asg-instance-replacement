@@ -17,3 +17,4 @@ variable "lambda_layers" {
   description = "List of Lambda Layer Version ARNs to attach to the Lambda Function"
   default     = []
 }
+
